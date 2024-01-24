@@ -2,7 +2,7 @@
 // const options = {
 // 	method: 'GET',
 // 	headers: {
-// 		'X-RapidAPI-Key': 'fa136c534emshf21c6aaaa5a63b5p1edd75jsn1ea814fe79ec',
+// 		'X-RapidAPI-Key': 'your_key_here',
 // 		'X-RapidAPI-Host': 'apidojo-booking-v1.p.rapidapi.com'
 // 	}
 // };
